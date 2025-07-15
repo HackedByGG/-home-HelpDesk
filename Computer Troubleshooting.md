@@ -8,6 +8,7 @@ Windows Troubleshooting
 
 --[Resetting TCP/IP and DNS](ResettingTCPIP-And-DNS/Resetting.md)
 
+--[Show Hidden Files in File Explorer](Show-Hidden-Files/HiddenFiles.md)
 
 Printer Troubleshooting
 

@@ -1,6 +1,6 @@
-Computer Troubleshooing
+#Computer Troubleshooing
 
-Linux Troubleshooting
+#1 Linux Troubleshooting
 
 --[Ubuntu Setting Static IP](UbuntuSettingStaticIP/UbuntuStaticIP.md)
 
@@ -8,7 +8,7 @@ Linux Troubleshooting
 
 --[Ubuntu Unable to Locate Package](UbuntuUnableToLocatePackage/UnabletoLocatePackage.md)
 
-Windows Troubleshooting
+#1 Windows Troubleshooting
 
 --[Static IP Setup](Setting-Static-IP/StaticIP.md)
 
@@ -16,6 +16,6 @@ Windows Troubleshooting
 
 --[Show Hidden Files in File Explorer](Show-Hidden-Files/HiddenFiles.md)
 
-Printer Troubleshooting
+#1 Printer Troubleshooting
 
-Active Directory
+#1 Active Directory

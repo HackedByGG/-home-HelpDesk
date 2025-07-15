@@ -1,9 +1,11 @@
-Computer Troubleshooting
+Computer Troubleshooing
 
 Linux Troubleshooting
 
 Windows Troubleshooting
 [Static IP Setup](Setting-Static-IP/StaticIP.md)
-Printer troubleshooting
+
+
+Printer Troubleshooting
 
 Active Directory

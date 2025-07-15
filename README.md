@@ -1,5 +1,5 @@
 # -home-HelpDesk
-A list of windows, linux, and general computer fixes I've done over the years.
+Everything I've done pertaining to the IT Help Desk
 
 To see the list of computer fixes I've done check out [Computer fixes](-Home-HelpDesk/ComputerTroubleshooting.md)
 

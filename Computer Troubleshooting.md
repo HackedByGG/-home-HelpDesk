@@ -4,6 +4,8 @@ Linux Troubleshooting
 
 --[Ubuntu Setting Static IP](UbuntuSettingStaticIP/UbuntuStaticIP.md)
 
+--[Ubuntu Command Not Found](UbuntuCommandNotFound/CommandNotFound.md)
+
 Windows Troubleshooting
 
 --[Static IP Setup](Setting-Static-IP/StaticIP.md)

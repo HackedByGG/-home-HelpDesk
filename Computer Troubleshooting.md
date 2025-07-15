@@ -2,6 +2,8 @@ Computer Troubleshooing
 
 Linux Troubleshooting
 
+--[Ubuntu Setting Static IP](UbuntuSettingStaticIP/UbuntuStaticIP.md)
+
 Windows Troubleshooting
 
 --[Static IP Setup](Setting-Static-IP/StaticIP.md)

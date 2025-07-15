@@ -6,6 +6,8 @@ Linux Troubleshooting
 
 --[Ubuntu Command Not Found](UbuntuCommandNotFound/CommandNotFound.md)
 
+--[Ubuntu Unable to Locate Package](UbuntuUnableToLocatePackage/UnabletoLocatePackage.md)
+
 Windows Troubleshooting
 
 --[Static IP Setup](Setting-Static-IP/StaticIP.md)
